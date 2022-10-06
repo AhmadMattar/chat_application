@@ -1,0 +1,19 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.d68df929.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.adc8438e.css"
+    ]
+  },
+  "resources/js/messages.js": {
+    "file": "assets/messages.35d6490e.js",
+    "src": "resources/js/messages.js",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.adc8438e.css",
+    "src": "resources/css/app.css"
+  }
+}
